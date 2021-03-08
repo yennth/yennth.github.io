@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Hawibook
 
-You can use the [editor on GitHub](https://github.com/yennth/yennth.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Github: [here](https://github.com/yennth/yennth.github.io)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 

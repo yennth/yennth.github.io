@@ -17,6 +17,8 @@ https://www.integral-calculator.com/ \
 https://www.derivative-calculator.net/
 
 #### Statistics and Probability
+[Seeing Theory](https://seeing-theory.brown.edu/) \
+[Rpsychologist](https://rpsychologist.com/)
 
 ### Machine learning
 [Đắm mình vào học sâu](https://d2l.aivivn.com) \

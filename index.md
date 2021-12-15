@@ -1,6 +1,5 @@
 ## Welcome to Hawibook
 
-Github: [here](https://github.com/yennth/yennth.github.io)
 
 ## Bookmarks
 
